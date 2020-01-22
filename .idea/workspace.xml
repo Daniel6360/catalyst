@@ -1,7 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e25395d-21f7-4dae-b134-2f988c22f8c7" name="Default Changelist" comment="" />
+    <list default="true" id="7e25395d-21f7-4dae-b134-2f988c22f8c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/addictive_game/Flow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/addictive_game/Flow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/addictive_game/Flow3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/addictive_game/IntPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/addictive_game/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/auctionBidding/AuctionLvl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/bowling/Bowlinglvl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/challange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/challange/Main.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/challange/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/harvester/Serpentine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/harvester/Serpentine2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/harvester/Serpentine2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/hyperloop/HyperloopLvl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/hyperloop/HyperloopLvl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/hyperloop/HyperloopLvl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/hyperloop/HyperloopLvl4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/trackcars/TrackCarsLvl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/trackcars/TrackCarsLvl2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/trackcars/TrackTheCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/trackcars/TrackcarsLvl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/catalyst/trail/TrailLvl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/hackerrank/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl1/level1-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl1/level1-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl1/level1-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl1/level1-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl2/level2-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl2/level2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl2/level2-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl2/level2-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-01.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-02.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-03.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-04.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/addictiveGame/lvl3/level3-7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/level1-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/level1-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/level1-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/level1-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level1/level1-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level2/level2-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level2/level2-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level2/level2-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level2/level2-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level2/level2-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level3/level3-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level3/level3-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level3/level3-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level3/level3-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level3/level3-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level4/level4-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level4/level4-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level4/level4-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level4/level4-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hyperloop/level4/level4-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl1/ex.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl1/level1-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl1/level1-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl1/level1-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl1/level1-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl2/level2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl2/level2-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl2/level2-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl2/level2-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl3/ex.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl3/level3-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl3/level3-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trackcars/lvl3/level3-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/program.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl1/level1-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl1/level1-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl1/level1-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl1/level1-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl2/level2-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl2/level2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl2/level2-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl2/level2-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-0.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-01.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-02.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-03.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-04.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/addictiveGame/lvl3/level3-7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/level1-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/level1-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/level1-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/level1-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level1/level1-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level2/level2-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level2/level2-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level2/level2-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level2/level2-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level2/level2-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level3/level3-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level3/level3-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level3/level3-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level3/level3-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level3/level3-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level4/level4-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level4/level4-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level4/level4-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level4/level4-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hyperloop/level4/level4-eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/Fibonaci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/addictive_game/Flow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/addictive_game/Flow2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/addictive_game/Flow3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/addictive_game/IntPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/addictive_game/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/auctionBidding/AuctionLvl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/bowling/Bowlinglvl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/challange/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/challange/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/harvester/Serpentine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/harvester/Serpentine2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/hyperloop/HyperloopLvl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/hyperloop/HyperloopLvl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/hyperloop/HyperloopLvl3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/hyperloop/HyperloopLvl4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/trackcars/TrackCarsLvl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/trackcars/TrackTheCars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/trackcars/TrackcarsLvl3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/catalyst/trail/TrailLvl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ro/hackerrank/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl1/ex.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl1/level1-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl1/level1-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl1/level1-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl1/level1-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl2/level2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl2/level2-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl2/level2-3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl2/level2-4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl3/ex.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl3/level3-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl3/level3-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/trackcars/lvl3/level3-3.in" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/hackerrank/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="29" />
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,6 +280,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -177,6 +342,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -262,8 +428,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ro/catalyst" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projects/Itschool/maven-courses/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -796,7 +963,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/hackerrank/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="29" />
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
